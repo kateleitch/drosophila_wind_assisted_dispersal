@@ -12,18 +12,14 @@ This readme assumes working knowledge of Ubuntu and python. This code is not act
 Code and data are licensed under a [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0").
 
 
-## What you need to run our analysis
+## What you need to run our analyses
 * Ubuntu (we used Ubuntu 16)
 * Python (2.7)
 * OpenCV (3.3.1)
 * apt-get repositories: 
 * Manual downloads: 
 
-
-
-
-1) DATA FORMATS
-This repository contains a mixture of different data formats, all offering reasonable human-readability, and all able to be read into a python environment using only open-source tools. 
+Data in this repository are stored in a variety of data formats, all offering reasonable human-readability, and all readable with open-source tools. 
 * most processed data and experimental metadata are saved as .json files 
 * some field data, such as anemometer recordings, are saved as .csv files
 * 
@@ -36,33 +32,41 @@ Once you have the camera-trap images, you will need to follow the following inst
  
 ## Making the data accessible to analysis
 We have provided a directory structure that will facilitate your analysis of any raw camera-trap data you've requested and received. This directory is called "./field_data_and_analysis_scripts." Subfolders with experimental date names (e.g. "2017_10_26") have been prepared for your manual deposition of the raw camera data we provide. This will require two steps:
+
 1) First, copy the data into the folder: "./field_data_and_analysis_scripts/2017_10_26/trapcam_timelapse_TO_BE_MANUALLY_POPULATED"
 2) Then, rename the folder into which you've pasted the data, so it simply reads "/trapcam_timelapse"
 
 You'll want the resultant directory structure to look like:
 		
-field_data_and_analysis_scripts		
-	2017_10_26
-		trapcam_timelapse
-			trap_A					<--------------------------------  
-				mask.jpg							|
-				tl_0007_0001_20161130_125959.jpg				|
-				.								|
-				.								|
-				.       [many more image files]					|
-				.						these are the folders/files 
-				.							provided on request
-				tl_0007_3644_20161130_160239.jpg				|
-			trap_B									|
-				mask.jpg							|
-				tl_0009_0001_20161130_103056.jpg				|
-				.								|
-				.								|
-				.       [et cetera]		<--------------------------------				
+		field_data_and_analysis_scripts		
+			2017_10_26
+				trapcam_timelapse
+					trap_A					<----------------  
+						mask.jpg					|
+						tl_0007_0001_20161130_125959.jpg		|
+						.						|
+						.						|
+						.       [many more image files]			|
+						.					these are the folders/files 
+						.					provided on request
+						tl_0007_3644_20161130_160239.jpg		|
+					trap_B							|
+						mask.jpg					|
+						tl_0009_0001_20161130_103056.jpg		|
+						.						|
+						.						|
+						.       [et cetera]		<----------------				
 
 
 
-## Running the 
+## Running analyses of raw camera-trap data 
+At this point, using "/field_data_and_analysis_scripts" as your working directory, you'll want to run the script "/run_trapcam_analysis.py," which will prompt your specification of:
+1) the experiments you'd like to analyze (e.g. 2017_10_26), 
+2) the traps you'd like to analyze (e.g. trap_G),
+and
+3) whether you'd like to tinker around with analysis parameters, or if you'd like to use default analysis parameters to perform the final analysis.
+	3a) if you choose the former, the analysis will come up with an "in-trap/on-trap threshold" for each trap analyzed, on the basis of any dips found in a multimodal histogram of detected-contour contrast metrics. This threshold will be saved in the parameter file, (e.g. "/2017_10_26/gaussian_analysis_parameters.json"). 
+	3b) if you choose the latter, the analysis will use the saved "in-trap/on-trap threshold" to generate time-series estimations of the number of flies in, and on, the trap surface; these results will be saved in e.g. "/2017_10_26/all_traps_final_analysis_output.json"
 
 
 

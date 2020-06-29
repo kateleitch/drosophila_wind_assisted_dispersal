@@ -1,4 +1,4 @@
-#Wind-assisted dispersal in <i>Drosophila</i>
+# Wind-assisted dispersal in <i>Drosophila</i>
 
 Data repository (field data and behavioral simulations) for all figures in:
 The long distance flight behavior of Drosophila suggests a general model for wind-assisted dispersal in insects

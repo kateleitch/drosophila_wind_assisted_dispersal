@@ -1,0 +1,254 @@
+{
+    "trap_B": {
+        "analysis parameters": {
+            "minimum_contour_size": 24,
+            "frames between training and test": 0,
+            "step through frames": true,
+            "mahalanobis squared threshold": 9,
+            "threshold to differentiate in- and on- trap": 16,
+            "number of frames for bg model training": 25,
+            "save frames as video": true,
+            "analyze_how_many_minutes_post_release": 50,
+            "trimodal expected": [
+                10,
+                2,
+                1500,
+                15,
+                2,
+                2000,
+                30,
+                10,
+                500
+            ],
+            "analyze_how_many_minutes_prior_to_release": 1,
+            "camera time advanced by __ sec": 1341,
+            "maximum_contour_size": 1000
+        },
+        "analysis_results": [],
+        "fixed in-trap on-trap threshold": 16
+    },
+    "trap_C": {
+        "analysis parameters": {
+            "minimum_contour_size": 24,
+            "frames between training and test": 1,
+            "step through frames": true,
+            "mahalanobis squared threshold": 9,
+            "threshold to differentiate in- and on- trap": 16,
+            "number of frames for bg model training": 25,
+            "save frames as video": true,
+            "analyze_how_many_minutes_post_release": 50,
+            "trimodal expected": [
+                10,
+                2,
+                1500,
+                15,
+                2,
+                2000,
+                30,
+                10,
+                500
+            ],
+            "analyze_how_many_minutes_prior_to_release": 1,
+            "camera time advanced by __ sec": -9957,
+            "maximum_contour_size": 1000
+        },
+        "analysis_results": [],
+        "fixed in-trap on-trap threshold": 16
+    },
+    "trap_A": {
+        "analysis parameters": {
+            "minimum_contour_size": 24,
+            "frames between training and test": 1,
+            "step through frames": true,
+            "mahalanobis squared threshold": 9,
+            "threshold to differentiate in- and on- trap": 16,
+            "number of frames for bg model training": 25,
+            "save frames as video": true,
+            "analyze_how_many_minutes_post_release": 50,
+            "trimodal expected": [
+                10,
+                2,
+                1500,
+                15,
+                2,
+                2000,
+                30,
+                10,
+                500
+            ],
+            "analyze_how_many_minutes_prior_to_release": 1,
+            "camera time advanced by __ sec": 41433,
+            "maximum_contour_size": 1000
+        },
+        "analysis_results": [],
+        "fixed in-trap on-trap threshold": 20
+    },
+    "trap_F": {
+        "analysis parameters": {
+            "minimum_contour_size": 24,
+            "frames between training and test": 2,
+            "step through frames": false,
+            "mahalanobis squared threshold": 9,
+            "threshold to differentiate in- and on- trap": 22,
+            "number of frames for bg model training": 25,
+            "save frames as video": true,
+            "analyze_how_many_minutes_post_release": 50,
+            "trimodal expected": [
+                10,
+                2,
+                1500,
+                15,
+                2,
+                2000,
+                30,
+                10,
+                500
+            ],
+            "analyze_how_many_minutes_prior_to_release": 1,
+            "camera time advanced by __ sec": 37233,
+            "maximum_contour_size": 1000
+        },
+        "analysis_results": [],
+        "fixed in-trap on-trap threshold": 21
+    },
+    "trap_G": {
+        "analysis parameters": {
+            "minimum_contour_size": 24,
+            "frames between training and test": 1,
+            "step through frames": true,
+            "mahalanobis squared threshold": 9,
+            "threshold to differentiate in- and on- trap": 22,
+            "number of frames for bg model training": 25,
+            "save frames as video": false,
+            "analyze_how_many_minutes_post_release": 50,
+            "trimodal expected": [
+                10,
+                2,
+                1500,
+                15,
+                2,
+                2000,
+                30,
+                10,
+                500
+            ],
+            "analyze_how_many_minutes_prior_to_release": 1,
+            "camera time advanced by __ sec": -15772,
+            "maximum_contour_size": 1000
+        },
+        "analysis_results": [],
+        "fixed in-trap on-trap threshold": 21
+    },
+    "trap_D": {
+        "analysis parameters": {
+            "minimum_contour_size": 24,
+            "frames between training and test": 1,
+            "step through frames": true,
+            "mahalanobis squared threshold": 9,
+            "threshold to differentiate in- and on- trap": 16,
+            "number of frames for bg model training": 25,
+            "save frames as video": true,
+            "analyze_how_many_minutes_post_release": 50,
+            "trimodal expected": [
+                10,
+                2,
+                1500,
+                15,
+                2,
+                2000,
+                30,
+                10,
+                500
+            ],
+            "analyze_how_many_minutes_prior_to_release": 1,
+            "camera time advanced by __ sec": -7283,
+            "maximum_contour_size": 1000
+        },
+        "analysis_results": [],
+        "fixed in-trap on-trap threshold": 14
+    },
+    "trap_E": {
+        "analysis parameters": {
+            "minimum_contour_size": 24,
+            "frames between training and test": 1,
+            "step through frames": true,
+            "mahalanobis squared threshold": 9,
+            "threshold to differentiate in- and on- trap": 22,
+            "number of frames for bg model training": 25,
+            "save frames as video": true,
+            "analyze_how_many_minutes_post_release": 50, 
+            "trimodal expected": [
+                10,
+                2,
+                1500,
+                15,
+                2,
+                2000,
+                30,
+                10,
+                500
+            ],
+            "analyze_how_many_minutes_prior_to_release": 1,
+            "camera time advanced by __ sec": -10642,
+            "maximum_contour_size": 1000
+        },
+        "analysis_results": [],
+        "fixed in-trap on-trap threshold": 16
+    },
+    "trap_H": {
+        "analysis parameters": {
+            "minimum_contour_size": 24,
+            "frames between training and test": 1,
+            "step through frames": false,
+            "mahalanobis squared threshold": 9,
+            "threshold to differentiate in- and on- trap": 20,
+            "number of frames for bg model training": 25,
+            "save frames as video": true,
+            "analyze_how_many_minutes_post_release": 50,
+            "trimodal expected": [
+                10,
+                2,
+                1500,
+                15,
+                2,
+                2000,
+                30,
+                10,
+                500
+            ],
+            "analyze_how_many_minutes_prior_to_release": 1,
+            "camera time advanced by __ sec": -1047,
+            "maximum_contour_size": 1000
+        },
+        "analysis_results": [],
+        "fixed in-trap on-trap threshold": 27
+    },
+    "trap_N": {
+        "analysis parameters": {
+            "minimum_contour_size": 24,
+            "frames between training and test": 1,
+            "step through frames": true,
+            "mahalanobis squared threshold": 9,
+            "threshold to differentiate in- and on- trap": 16,
+            "number of frames for bg model training": 25,
+            "save frames as video": true,
+            "analyze_how_many_minutes_post_release": 50,
+            "trimodal expected": [
+                10,
+                2,
+                1500,
+                15,
+                2,
+                2000,
+                30,
+                10,
+                500
+            ],
+            "analyze_how_many_minutes_prior_to_release": 1,
+            "camera time advanced by __ sec": 40762,
+            "maximum_contour_size": 1000
+        },
+        "analysis_results": [],
+        "fixed in-trap on-trap threshold": 17
+    }
+}

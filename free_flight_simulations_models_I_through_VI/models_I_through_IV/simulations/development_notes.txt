@@ -1,0 +1,26 @@
+this directory is hopefully going to contain the more pared-down, more organized version of ../simple_plumeless_simulations
+
+this will then serve as a starting point for different coding variants, like running a sensitivity analysis to determine how the free parameters (preferred groundspeed, min airspeed, max airspeed) affect the Bayes-based assessment of model fit to data.
+
+CURRENT PROBLEMS:
+
+- model 3 is producing a slightly different PDF now, and a VASTLY different output in the Bayes analysis; not only is it left-shifted (which will alter the way we discuss the relative model fits) but most confusingly its distribtution of Bayes factors is very un-smooth, in a way that looks downright artifactual, like a binning problem.
+
+    a) problem is UPSTREAM of the generation of ./four_models_normalized_pdfs.json
+
+    b) problem also upstream of generation of wtraj/gtraj file; when I resaved ./simulated_groundspeeds_vs_windspeeds_model3_rewrite_FIELD_WINDS.json' as 'model_3.json,' the problem went away.
+
+    c) in original directory, the following model scripts could have produced ./simulated_groundspeeds_vs_windspeeds_model3_rewrite_FIELD_WINDS.json':
+
+            - simple_model_of_groundspeed_vs_windspeed_model3_REWRITE.py
+    d) a newer script, simple_model_of_groundspeed_vs_windspeed_model3_REWRITE_with_negative_airspeed.py, was not saving .json files with the name we're looking for.
+
+    e) so now my question is, what did I intend to do with that introduction of "negative airspeed?" And was there some principled reason for my leaving it behind? Was that code never really finished/made operational? And what the hell kind of bug could make the bootstrapped Bayes factors have such an odd distribution?
+
+    Current conclusion: the model_3 script I was using was "simple_model_of_groundspeed_vs_windspeed_model3_REWRITE.py"
+    and the script i made two days later, with the suffix "_with_negative_airspeed," is substantially different in terms of the Bayes analysis, which is surprising, because the PDFs from these models' wtraj/gtraj relations look very, very similar.
+
+
+- model 4 has a new distinct little patch in its PDF corresponding to airspeed variation to prevent dropouts. This isn't really a problem but I need to keep in mind that this is different. It's odd because it is elongate with a slope of zero, indicating perfect groundspeed regulation along a trajectory for a range of negative wtraj values. Seems not parsimonious, and not what I had wanted to add in...
+
+    When examining the little lakebed visualizations of this model, there is a really counterintuitive little patch of flies all with negative wtraj values, that emerges when the windspeed is above 1 m/s.

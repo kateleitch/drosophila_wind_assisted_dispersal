@@ -1,0 +1,37 @@
+how we have been collecting wind data in the field
+
+Materials
+*********
+Met One Instruments, Inc. - Model 020C wind direction sensor
+Met One Instruments, Inc. - Model 010C wind speed sensor
+cable assemblies for powering the two sensors and sending data to acquisition hardware - also from metone
+
+spirit level assembly to ensure anemometer is level with ground (note: this is pretty robust because the vane is counterweighted)
+crosspole assembly to mount both sensors
+tripod and mounting plate to hold crosspole assembly ~ 4.5 feet off the ground (this height has not been measured or stereotyped)
+
+
+
+
+Data logging in field - two alternate methods
+*********************************************
+1. to launch logging via Python GUI:
+cd ~/src/m1_wind_sensor/software/python/m1_wind_sensor/m1_wind_sensor
+workon anemometer
+m1_logger -w [width of display window in seconds]
+
+ALTERNATELY
+
+2. to launch logging via web server:
+cd ~/src/m1_wind_sensor/software/javascript/m1_wind_sensor_server
+node server.js
+http://localhost:5000/
+
+IN EITHER CASE
+data saved to ~/m1_wind_data in time-stamped .txt file
+
+Data logging parameters
+***********************
+update rate:
+minimum acquisition time prior to fly release: _____ minutes
+wind direction oriented with respect to magnetic north

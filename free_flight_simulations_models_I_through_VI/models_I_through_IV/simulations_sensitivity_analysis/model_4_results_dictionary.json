@@ -1,0 +1,42 @@
+{
+ "./model_4/forward_airspeed_2.0.json": {
+  "Bayes outliers omitted": 262.90522619080207, 
+  "Bayes": -3.1801066976520675
+ }, 
+ "./model_4/forward_airspeed_2.25.json": {
+  "Bayes outliers omitted": 875.54937229293375, 
+  "Bayes": 500.84279852321373
+ }, 
+ "./model_4/forward_airspeed_1.75.json": {
+  "Bayes outliers omitted": 41.633135200575637, 
+  "Bayes": -102.26372066897025
+ }, 
+ "./model_4/forward_airspeed_1.25.json": {
+  "Bayes outliers omitted": 39.99247645092764, 
+  "Bayes": 212.91525526984665
+ }, 
+ "./model_4/forward_airspeed_0.125.json": {
+  "Bayes outliers omitted": 2498.6341571947823, 
+  "Bayes": Infinity
+ }, 
+ "./model_4/forward_airspeed_0.25.json": {
+  "Bayes outliers omitted": 2041.5814051414006, 
+  "Bayes": Infinity
+ }, 
+ "./model_4/forward_airspeed_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_4/forward_airspeed_1.0.json": {
+  "Bayes outliers omitted": 225.67886140592555, 
+  "Bayes": 591.29922780988761
+ }, 
+ "./model_4/forward_airspeed_0.5.json": {
+  "Bayes outliers omitted": 1111.4231215254911, 
+  "Bayes": Infinity
+ }, 
+ "./model_4/forward_airspeed_0.75.json": {
+  "Bayes outliers omitted": 558.65144584727284, 
+  "Bayes": 1149.9707231241366
+ }
+}

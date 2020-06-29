@@ -1,0 +1,1270 @@
+{
+ "./model_3/airmin_-0.5_airmax_1.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 135.31545188319046, 
+  "Bayes": 190.22273494719724
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 129.10924693972555, 
+  "Bayes": 567.29768563350274
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 227.51375417768159, 
+  "Bayes": 691.28729867056165
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 226.31858354817351, 
+  "Bayes": 692.51979283930859
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 1299.917077383446, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 316.88151105022729, 
+  "Bayes": 804.41800864107165
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 87.755493574029899, 
+  "Bayes": 268.81011623940179
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1520.6828923767707, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 384.70930799516378, 
+  "Bayes": 1056.5326309228437
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.5_gpref_1.5.json": {
+  "Bayes outliers omitted": 280.10668350789081, 
+  "Bayes": 280.5110569433233
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.2404559108852364, 
+  "Bayes": 63.711613673859276
+ }, 
+ "./model_3/airmin_-0.2_airmax_0.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 1013.2613078506417, 
+  "Bayes": 1920.4878329222818
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.5_gpref_1.5.json": {
+  "Bayes outliers omitted": 281.40510137540645, 
+  "Bayes": 277.9651629992124
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 965.2445220155912, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 384.41285787898505, 
+  "Bayes": 1048.5260388645909
+ }, 
+ "./model_3/airmin_-0.2_airmax_0.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 830.70040046957195, 
+  "Bayes": 1738.8256471067868
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.3429823648385515, 
+  "Bayes": 62.688333598513573
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 967.62763784692345, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_0.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 2044.0708539408449, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 963.9669572354145, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 226.6082160132832, 
+  "Bayes": 689.29177748879079
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 134.15182890183019, 
+  "Bayes": 191.51471976136762
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 127.74023923313815, 
+  "Bayes": 572.32796478939122
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 32.133897287359943, 
+  "Bayes": 215.81111693930887
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1593.0506505347487, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.166994934210113, 
+  "Bayes": 210.53883357174345
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 1302.9835155661031, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_0.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 438.71363865586807, 
+  "Bayes": 931.13457796701243
+ }, 
+ "./model_3/airmin_-0.4_airmax_0.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 1005.6472759628811, 
+  "Bayes": 1922.7805820658505
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1518.1388187664718, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.0_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1684.7674244357679, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 385.15515053979175, 
+  "Bayes": 1053.7727038183398
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.54362779532264, 
+  "Bayes": 569.95081554465764
+ }, 
+ "./model_3/airmin_-0.2_airmax_0.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 2043.9326707329515, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 383.20391022240955, 
+  "Bayes": 1048.5121734192769
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 128.86379912353132, 
+  "Bayes": 313.457119653333
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 385.17290537194458, 
+  "Bayes": 1055.8149828215933
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 1156.1625030630175, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 966.65344780098201, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 129.86720318873898, 
+  "Bayes": 569.6932069420991
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 1295.6331665472278, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 172.55958050203571, 
+  "Bayes": 617.33729754196304
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 130.29832514895406, 
+  "Bayes": 313.0735713484496
+ }, 
+ "./model_3/airmin_-0.3_airmax_0.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1640.6605394818523, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 381.86230761679894, 
+  "Bayes": 1054.1156704215762
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.75_gpref_1.5.json": {
+  "Bayes outliers omitted": 97.202798393344693, 
+  "Bayes": 95.98337129350729
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1689.3701401595008, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 970.40676383766424, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 649.62080211188947, 
+  "Bayes": 1506.2083641684617
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1511.0920539019723, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 383.76632499607217, 
+  "Bayes": 1047.7823887966986
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.75_gpref_1.5.json": {
+  "Bayes outliers omitted": 97.071431191179556, 
+  "Bayes": 96.662002102779567
+ }, 
+ "./model_3/airmin_-0.2_airmax_0.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 1469.6191861215732, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_0.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 1473.1506843131269, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_0.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1932.1782537653125, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 384.51080766391476, 
+  "Bayes": 1052.0718094996175
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 422.3676695129322, 
+  "Bayes": 1110.9967140862861
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.406569846637151, 
+  "Bayes": 214.8340888215541
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 1158.4750170015852, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1598.0918879159312, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1799.349481644497, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 134.26030004372581, 
+  "Bayes": 190.6502388456291
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.33923670456625, 
+  "Bayes": 571.07771579691689
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 966.86374724525626, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 383.10811377993321, 
+  "Bayes": 1050.8533230483788
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1515.7190119049508, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.75_gpref_1.0.json": {
+  "Bayes outliers omitted": 41.446917575059437, 
+  "Bayes": 225.61217389847371
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 513.41118932884251, 
+  "Bayes": 1279.6747933351505
+ }, 
+ "./model_3/airmin_-0.5_airmax_0.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 1007.2154558523737, 
+  "Bayes": 1914.9493487984598
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 87.797023967236868, 
+  "Bayes": 269.93430121974609
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 962.53423771719281, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 181.06880975931253, 
+  "Bayes": 238.67956987754661
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 648.39172487992732, 
+  "Bayes": 1517.6367774624575
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.0_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.75_gpref_1.0.json": {
+  "Bayes outliers omitted": 41.919691759360219, 
+  "Bayes": 224.87545453666155
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 423.30930449223837, 
+  "Bayes": 1108.2093456416947
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1594.4264422582191, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.22894276765777, 
+  "Bayes": 566.57412679159665
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.5_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.99634193573911, 
+  "Bayes": 567.92055719774123
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1522.4200528300794, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_0.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1933.4735107662127, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 129.87890836005911, 
+  "Bayes": 568.50371813636423
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.845931406935684, 
+  "Bayes": 216.1663368168573
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 129.27359076792999, 
+  "Bayes": 314.01113933187332
+ }, 
+ "./model_3/airmin_-0.1_airmax_0.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1640.0837604635929, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_0.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 2038.9363185120555, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 129.53419028629585, 
+  "Bayes": 563.22623990169666
+ }, 
+ "./model_3/airmin_-0.5_airmax_0.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 2055.7914062895798, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1041.7156638980273, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 129.41489097878087, 
+  "Bayes": 314.86415533661096
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.0_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.3358287796633359, 
+  "Bayes": 63.244638635681625
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1515.1846336831504, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_0.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 439.09249500729732, 
+  "Bayes": 926.90822910975032
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1517.9596271624416, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 963.77398571636672, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 183.33448775670672, 
+  "Bayes": 238.16000449290107
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.0_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1513.7219527612995, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 968.93370231514632, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 964.53632033062615, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.0_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.75_gpref_1.5.json": {
+  "Bayes outliers omitted": 96.844143244657531, 
+  "Bayes": 97.269831097547964
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 421.99672583238913, 
+  "Bayes": 1116.0330973220623
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1517.7786323496641, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.79842119887311, 
+  "Bayes": 569.22217060668174
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.698304337379373, 
+  "Bayes": 214.93640432760461
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.42287525223394, 
+  "Bayes": 214.26250525453585
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 129.80740856628373, 
+  "Bayes": 566.78228206476194
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 963.08326563217622, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.25_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.75_gpref_1.0.json": {
+  "Bayes outliers omitted": 42.400838643522519, 
+  "Bayes": 224.77006148024037
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1517.0257023681204, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 382.31279425194128, 
+  "Bayes": 1046.1457752322422
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1802.3630259218373, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 511.87318946583571, 
+  "Bayes": 1286.5365189976267
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.890087190330714, 
+  "Bayes": 214.74719675268867
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 649.81567414737287, 
+  "Bayes": 1517.946484728343
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.0_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.546588964799879, 
+  "Bayes": 63.452527531185609
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.4767661149951454, 
+  "Bayes": 64.064487153184203
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.11155351826115, 
+  "Bayes": 214.126800141975
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 178.21899570777074, 
+  "Bayes": 361.20999658039619
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 181.40963787301536, 
+  "Bayes": 238.12610755098342
+ }, 
+ "./model_3/airmin_-0.3_airmax_0.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 1011.5892824473489, 
+  "Bayes": 1923.001450278892
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 1157.8707572713886, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_0.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 441.39745896630808, 
+  "Bayes": 938.46969955935333
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.75_gpref_1.0.json": {
+  "Bayes outliers omitted": 42.089584814052671, 
+  "Bayes": 224.87249016107441
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.25_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.5_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 381.93396535381618, 
+  "Bayes": 1050.7662761783067
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.25_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 88.040110226160891, 
+  "Bayes": 269.99327472412926
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1687.8605558923007, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.1670643660333644, 
+  "Bayes": 63.761159408692144
+ }, 
+ "./model_3/airmin_-0.1_airmax_0.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 2035.7395210462284, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.547948991479661, 
+  "Bayes": 215.7308359356563
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 88.433428700087688, 
+  "Bayes": 271.41905838024138
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 381.96404206992025, 
+  "Bayes": 1052.5906156473563
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 1295.9322145511669, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 176.50219537460342, 
+  "Bayes": 360.7749510792047
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.75_gpref_1.25.json": {
+  "Bayes outliers omitted": 72.912360209713128, 
+  "Bayes": 130.43029086202731
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 174.83305976497076, 
+  "Bayes": 613.80062548254534
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.43007774393257, 
+  "Bayes": 571.59661066189426
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 228.27976181083508, 
+  "Bayes": 689.24512754160946
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.5_gpref_1.5.json": {
+  "Bayes outliers omitted": 280.97629650959641, 
+  "Bayes": 280.44552542705878
+ }, 
+ "./model_3/airmin_-0.6_airmax_0.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 439.51434241182704, 
+  "Bayes": 935.20631318459959
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 968.94077585323976, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_0.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1646.7801224314189, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 382.08268499382353, 
+  "Bayes": 1061.6264671340255
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1519.354988383375, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 130.45257320374105, 
+  "Bayes": 311.81960609490108
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 87.651371954384118, 
+  "Bayes": 270.36714199938092
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 176.78603234927829, 
+  "Bayes": 360.46739604026425
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 966.57396978069653, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.0_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.2372623358109323, 
+  "Bayes": 63.741149957016084
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 1155.0421319937934, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 383.57919042989028, 
+  "Bayes": 1053.4422978441189
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.75_gpref_1.25.json": {
+  "Bayes outliers omitted": 73.42368520115626, 
+  "Bayes": 129.99745689703707
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1514.1120917567137, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.34746431511294, 
+  "Bayes": 566.29089405580828
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 963.18080277254978, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1588.3658596995679, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 966.38556445846814, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.59524323619684, 
+  "Bayes": 572.85634237639874
+ }, 
+ "./model_3/airmin_-0.4_airmax_0.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1642.2880882413451, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 87.27211331313282, 
+  "Bayes": 271.7076213512637
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 382.91751464571161, 
+  "Bayes": 1051.2589025257128
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1804.2249072119009, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.75_gpref_1.25.json": {
+  "Bayes outliers omitted": 73.159339762732998, 
+  "Bayes": 130.24925633643025
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1514.7223772134903, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.2825533709439014, 
+  "Bayes": 63.535995995043159
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 129.47570713382748, 
+  "Bayes": 566.20416619865705
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1044.2644945203033, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 383.91796208617018, 
+  "Bayes": 1045.2735307464941
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 386.16711692871769, 
+  "Bayes": 1051.6128378916549
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 973.7861281392004, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_0.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1633.2201058089186, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1039.9892229100724, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.284871278333374, 
+  "Bayes": 63.873751273377557
+ }, 
+ "./model_3/airmin_-0.1_airmax_0.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1931.5611651592351, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1800.8590854718407, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 961.95112274613041, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 651.56676791978521, 
+  "Bayes": 1516.7456195386949
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.3364244427496583, 
+  "Bayes": 63.475825602340315
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.75_gpref_1.5.json": {
+  "Bayes outliers omitted": 95.891470957505234, 
+  "Bayes": 97.042479316442595
+ }, 
+ "./model_3/airmin_-0.2_airmax_0.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 438.85196401682441, 
+  "Bayes": 928.41327705258743
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 134.47709778605409, 
+  "Bayes": 190.29489956296621
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 964.68663975199684, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.25_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.4464764342080834, 
+  "Bayes": 63.489725830241511
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.4356107287159361, 
+  "Bayes": 63.873900804724883
+ }, 
+ "./model_3/airmin_-0.3_airmax_0.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 829.54928616822701, 
+  "Bayes": 1731.4556696901166
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.637571158565656, 
+  "Bayes": 216.50703543507132
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.75_gpref_1.25.json": {
+  "Bayes outliers omitted": 73.440286668088305, 
+  "Bayes": 129.58153976478303
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 420.7732107142308, 
+  "Bayes": 1110.2085297402855
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.413761920885218, 
+  "Bayes": 215.21477153581941
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.0_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.4745847433656163, 
+  "Bayes": 64.151031902623657
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.765059534680784, 
+  "Bayes": 213.59167148344227
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 174.5038084475942, 
+  "Bayes": 609.29185948619511
+ }, 
+ "./model_3/airmin_-0.5_airmax_0.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1932.8170754413643, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1517.5241254918724, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 127.84446042691418, 
+  "Bayes": 571.65005486082009
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 1298.559523624758, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.0_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.3491510145733381, 
+  "Bayes": 64.025835708415414
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.5_gpref_1.5.json": {
+  "Bayes outliers omitted": 282.16698564293597, 
+  "Bayes": 281.58649875832089
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 421.42051649671754, 
+  "Bayes": 1104.7222815050752
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.25_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.75_gpref_1.5.json": {
+  "Bayes outliers omitted": 97.842992376192612, 
+  "Bayes": 95.18530730549746
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 965.70560488308297, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 383.91944169767953, 
+  "Bayes": 1059.144919802616
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 179.18646072310517, 
+  "Bayes": 360.63358340282883
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1516.2805219618335, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 181.19740600714789, 
+  "Bayes": 238.95921212058127
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 178.55417086309666, 
+  "Bayes": 358.41387388567875
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.0_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 316.19708420622658, 
+  "Bayes": 812.35968387274727
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.75_gpref_1.5.json": {
+  "Bayes outliers omitted": 95.568758777990837, 
+  "Bayes": 96.299833281012781
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.5_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 383.77036868084463, 
+  "Bayes": 1057.1539849519647
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 315.47478088215377, 
+  "Bayes": 811.22780216314504
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1044.7974108097919, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_0.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 1469.8172522749253, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1513.292567337945, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 133.37238387272453, 
+  "Bayes": 190.65556869680844
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 129.59408107170736, 
+  "Bayes": 311.05959397685371
+ }, 
+ "./model_3/airmin_-0.5_airmax_0.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 824.39895201123875, 
+  "Bayes": 1745.5456009755731
+ }, 
+ "./model_3/airmin_-0.6_airmax_0.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 824.34876670626556, 
+  "Bayes": 1743.9738028643824
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 965.96546778232403, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1589.9686955254422, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1515.8281198351617, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1516.5275647962403, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.80375333592301, 
+  "Bayes": 566.38209079416902
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 647.83855980515523, 
+  "Bayes": 1506.5833428672529
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1798.52791789207, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 423.41889883514716, 
+  "Bayes": 1115.2164979532158
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 511.04007814315639, 
+  "Bayes": 1284.3776042289044
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 173.88894429022798, 
+  "Bayes": 609.37066204011626
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 962.09234801973957, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1514.6620568962851, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_0.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 828.79803696066381, 
+  "Bayes": 1739.3577193645272
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 182.26725117488573, 
+  "Bayes": 238.46466082827823
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.522488074277538, 
+  "Bayes": 63.772522221995644
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.2771685282914493, 
+  "Bayes": 63.767752615417926
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.5_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 226.12267485801164, 
+  "Bayes": 691.76884320088027
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 1155.4759415394099, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1043.0092583198091, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.5_gpref_1.25.json": {
+  "Bayes outliers omitted": 134.46691876471908, 
+  "Bayes": 190.07903726671589
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.0_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.2887707201622511, 
+  "Bayes": 63.495052115086068
+ }, 
+ "./model_3/airmin_-0.4_airmax_0.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 831.37655600636913, 
+  "Bayes": 1750.4162566160221
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 511.28636376860959, 
+  "Bayes": 1279.0219792982814
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 129.42438860234594, 
+  "Bayes": 567.87936281472048
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.738718185834184, 
+  "Bayes": 214.49787314406601
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 511.63864750932271, 
+  "Bayes": 1281.274341297679
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.55127969257344, 
+  "Bayes": 568.27110500225365
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 177.40889656342011, 
+  "Bayes": 362.20118249275276
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.75_gpref_1.0.json": {
+  "Bayes outliers omitted": 41.550708634602799, 
+  "Bayes": 224.61202456520317
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1687.7174971560728, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_0.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 1477.4489071407556, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 315.88299850625344, 
+  "Bayes": 805.2447872999569
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 384.99664269887842, 
+  "Bayes": 1059.5887624276534
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1511.2809212778632, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.907415352215583, 
+  "Bayes": 214.66293360776021
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 512.93734419858254, 
+  "Bayes": 1278.6421293062374
+ }, 
+ "./model_3/airmin_-0.6_airmax_0.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 1006.868742079564, 
+  "Bayes": 1919.8370924985427
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.75_gpref_1.0.json": {
+  "Bayes outliers omitted": 42.376955560589082, 
+  "Bayes": 223.202855011222
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 129.18594522929766, 
+  "Bayes": 566.5210504519265
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1043.0240934775641, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 227.4817451735191, 
+  "Bayes": 692.34623920082436
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.0_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.5_gpref_1.5.json": {
+  "Bayes outliers omitted": 279.95362289550701, 
+  "Bayes": 279.97745554166579
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 384.89385739358227, 
+  "Bayes": 1055.6924394499608
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1517.5778935509811, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.495661950119288, 
+  "Bayes": 214.38882801171908
+ }, 
+ "./model_3/airmin_-0.1_airmax_0.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 1012.0301160514915, 
+  "Bayes": 1934.3950941801186
+ }, 
+ "./model_3/airmin_-0.6_airmax_1.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 315.33059407018453, 
+  "Bayes": 810.62750976478003
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1517.018561730707, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.5_gpref_1.5.json": {
+  "Bayes outliers omitted": 283.67623246660952, 
+  "Bayes": 279.70472884969826
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 314.94523674386659, 
+  "Bayes": 811.95995942751892
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1692.3404475292512, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_0.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 1472.4209956390885, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 1594.991450839452, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.25_gpref_0.5.json": {
+  "Bayes outliers omitted": 384.85414508493699, 
+  "Bayes": 1057.4156655591723
+ }, 
+ "./model_3/airmin_-0.5_airmax_0.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 1635.4753705667088, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 129.88098894578727, 
+  "Bayes": 570.35262775215153
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 173.74039864324055, 
+  "Bayes": 614.45065337626511
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.0_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.255299318399992, 
+  "Bayes": 215.89408990623019
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.25_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1799.3648128560822, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.75_gpref_0.5.json": {
+  "Bayes outliers omitted": 386.29851759336907, 
+  "Bayes": 1051.4197522075335
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.25_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.91759323102443, 
+  "Bayes": 567.09092099880354
+ }, 
+ "./model_3/airmin_-0.4_airmax_0.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1928.6551707766541, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.0_gpref_0.5.json": {
+  "Bayes outliers omitted": 650.27043631469269, 
+  "Bayes": 1505.7189700069637
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 966.96191480865912, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 1300.3639035864912, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_1.25_gpref_0.125.json": {
+  "Bayes outliers omitted": 1691.4311754192454, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_1.75_gpref_1.25.json": {
+  "Bayes outliers omitted": 72.638269736883927, 
+  "Bayes": 129.79636156532504
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.5_gpref_0.5.json": {
+  "Bayes outliers omitted": 386.54712475829086, 
+  "Bayes": 1066.8343022631011
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.0_gpref_0.75.json": {
+  "Bayes outliers omitted": 129.85705242456058, 
+  "Bayes": 572.95045771958939
+ }, 
+ "./model_3/airmin_-0.3_airmax_0.75_gpref_0.125.json": {
+  "Bayes outliers omitted": 1928.477479133664, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 7.3151445336918925, 
+  "Bayes": 63.231148349291459
+ }, 
+ "./model_3/airmin_-0.3_airmax_2.5_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.647446969632583, 
+  "Bayes": 213.62279547543284
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.75_gpref_1.25.json": {
+  "Bayes outliers omitted": 73.613733924998357, 
+  "Bayes": 129.40729604307862
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.25_gpref_1.0.json": {
+  "Bayes outliers omitted": 31.885862247228872, 
+  "Bayes": 214.48505779742877
+ }, 
+ "./model_3/airmin_-0.4_airmax_1.25_gpref_1.25.json": {
+  "Bayes outliers omitted": 182.39362962010273, 
+  "Bayes": 238.28458646295917
+ }, 
+ "./model_3/airmin_-0.4_airmax_0.75_gpref_0.75.json": {
+  "Bayes outliers omitted": 441.5703207417493, 
+  "Bayes": 930.59071932025722
+ }, 
+ "./model_3/airmin_-0.6_airmax_2.0_gpref_0.25.json": {
+  "Bayes outliers omitted": 967.91438817360256, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.5_airmax_2.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 128.80972849811218, 
+  "Bayes": 568.70175756823471
+ }, 
+ "./model_3/airmin_-0.1_airmax_1.5_gpref_0.75.json": {
+  "Bayes outliers omitted": 173.39359785613826, 
+  "Bayes": 613.13456965327725
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.5_gpref_1.5.json": {
+  "Bayes outliers omitted": 0.0, 
+  "Bayes": 0.0
+ }, 
+ "./model_3/airmin_-0.4_airmax_0.5_gpref_0.125.json": {
+  "Bayes outliers omitted": 2042.8126799991355, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_0.75_gpref_0.25.json": {
+  "Bayes outliers omitted": 1472.503741564773, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.2_airmax_2.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1513.8844640526165, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.1_airmax_2.0_gpref_0.125.json": {
+  "Bayes outliers omitted": 1508.6250615892534, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.3_airmax_1.25_gpref_0.25.json": {
+  "Bayes outliers omitted": 1158.6063033574678, 
+  "Bayes": Infinity
+ }, 
+ "./model_3/airmin_-0.4_airmax_2.5_gpref_0.25.json": {
+  "Bayes outliers omitted": 965.66913979027049, 
+  "Bayes": Infinity
+ }
+}

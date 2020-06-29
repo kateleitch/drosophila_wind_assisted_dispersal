@@ -1,0 +1,8 @@
+ferment started at 14:20 on Monday, 2019_05_06
+had a starting specific gravity of 1.094
+used Kroger apple juice (100% juice, two ingredients: apple juice from concentrate and ascorbic acid) 
+
+day of release (12:25 pm, 2019_05_08) specific gravity measured to be 1.072
+
+A simplified formula: (original sp.grav - final sp.grav)*131.25 = alcohol percentage by volume
+(1.094 - 1.072) *131.25 = 2.89% ABV

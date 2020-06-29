@@ -1,0 +1,42 @@
+
+
+#############################################################################
+Chamber A studded 2019_05_29 in late afternoon/early evening, with ~ 6-7 day old adults
+120 bottles, each with ~25 adults
+moved to Dickinson lab 25C incubator immediately after studding
+adults flipped out on 2019_05_30 in late evening 
+moved out to room temp on 2019_05_30
+pupal sheets added 2019_05_31 
+
+04 June - crawling up walls, some starting to pupate!!
+06 June - almost all pupated, 0% dark
+06 June afternoon -- accidentally put at 31.5C for a few hours!! (Betty's incubator, PID off)
+06 June late afternoon - moved to 28.5C (Betty's other incubator)
+07 June - transferred all sheets to chamber A in late afternoon; moved chamber back down to Betty's incubator at 29C
+COUNTED 52K PUPAE
+07 June - 2% eclosing, about 10% dark pupae, larvae very rare
+08 June - 20 - 40% eclosed
+09 June - 95% eclosed, looking great! Incubator still sitting at 29C
+10 June - 99% eclosed, looking good! Removed pupal sheets at 15:00 and provided fabric in their place
+#########################################################################
+Chamber B studded 2019_05_30 in late evening (around 9 pm) with adults that laid eggs in Chamber A bottles
+adults flipped out on 2019_05_31 in late evening
+pupal sheets added 2019_06_01 
+kept at room temp (in office, near window)
+ 
+04 June - none crawling up walls appreciably
+06 June - about 60% pupated
+06 June afternoon -- accidentally put at 31.5C for a few hours!! (Betty's incubator, PID off)
+06 June late afternoon - moved to 28.5C (Betty's other incubator)
+08 June afternoon - transferred to chamber B and moved to Betty's 29C incubator
+COUNTED 119K PUPAE
+08 June - 0% eclosing, about 10% dark pupae
+09 June - 40% eclosed, looking good. Incubator still sitting at 29C
+10 June - 80% eclosed, looking good! Removed pupal sheets (along with all the uneclosed pupae, darn) at 15:00 and provided fabric in their place
+############################################
+
+
+06 June - making 8L of sucrose agar (see recipe in coyote_lake_methods/husbandry/rearing) for bottom of both release chambers
+06 June - at this point, chamber A will be 3-4 d.o. and chamber B will be 2-3 d.o. by the planned release date (Tuesday, 11 June 2019)
+chamber A - estimating about 52K  * 0.99 =  51K adult flies
+chamber B - estimating about 119K * 0.80 =  95K adult flies

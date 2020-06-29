@@ -1,0 +1,225 @@
+***** 2019_05_08, Wednesday *********
+
+
+DAY OF FLY RELEASE: ITINERARY
+-----Day-of packing-----
+Make sure pupal sheets have been removed from chambers, and replaced with soft cloth (can do this the night before)
+Keep flies out of direct sunlight with reflective tarps
+Make sure bait is loaded into one of the cars!
+
+
+-----Driving-----
+Meet at lab at 5 am, pack cars (put release-site items and upcams in Michael's car?)
+Leave at 5:30 am
+Follow directions to start of Coyote Lake Road [34.934076, -116.713470]:
+	1. drive east on the 210 until the junction with 15, exit 64A. Take 15 North, toward Barstow
+	2. keep driving north over Cajon pass, through San Bernardino Forest
+	3. around Barstow, take care to stay on 15. Do not take 40.
+	4. in Yermo, take exit 198 for Minneola Road.
+	5. turn right (south) on Minneola Road.
+	6. take a left at first stop sign, on Yermo road. At this point you'll be driving east, parallel with 15 
+	7. you'll see, to your left, a small overpass that will allow you to drive north back over the 15. This is Coyote Lake Road. At this intersection you'll see a sign for St. Antony's Monastery. 
+	8. turn left onto Coyote lake road
+	9. after crossing over the 15, the road will curve sharply toward the east. About fifty meters later, turn left onto the wide dirt road.
+	10. this is our meeting site. [34.934076, -116.713470]
+Drive north, passing under the first powerline (which runs NE) until approximately [34.976482, -116.715132], where the road will start turning NW
+Drive northwest until [35.033871, -116.752033], which is the edge of the lakebed
+Drive to release site at [35.05883, -116.74556]
+Arrive at release site a little before 8:30 am
+
+
+-----Setting up for first fly release -----
+1) Upward-facing camera layout
+	keep cars away from release site, and don't set up the anemometer tripod just yet... they'll get in the way
+	drive a plastic stake into the site of the fly release
+	put acrylic compass (10 divisions or 8 divisions) over this stake, oriented wrt north
+	use yellow cord (on spool, marked with 10, 20 meter points) to place stakes or flags at intended upcam sites
+
+2) Metone anemometer -- initial setup
+	set up tripod, mount crossbar assembly and sensors
+	before mounting the vane on the direction sensor, put level/compass collar on the sensor. Orient notch to magnetic south!!
+	mount vane and spinning cups on their respective sensors (direction, speed)
+	connect cables to teensy, but not yet to the battery or the laptop; we'll wait until we're done setting up the upward-facing cameras
+
+3) Temp/humidity sensor
+	plug it in to its battery, set up under the anemometer.
+
+4) Upward-facing camera deployment
+	to save battery on laptop, ensure wifi and bluetooth are disabled
+	kate's typical naming convention has been to start naming at the northern camera, and proceed clockwise from there
+	orient each camera so its top-of-frame is oriented north
+	start video acquisition; see detailed instructions in section below
+	provide camera with 15-20 seconds of checkerboard calibration
+	for your peace of mind later, you might want to flash a compass in the camera FOV so you can later confirm that you had oriented it correctly
+
+5) Trap and trapcam deployment
+	to save battery on laptop, ensure wifi and bluetooth are disabled
+	set up aluminum tripods (stakes really not needed) so that its top crossbeam is oriented N-S
+	after mixing bait, pour 500 mL into trap bucket
+	situate banana island
+	secure trap-top
+	mount trapcam on aluminum crossbeam such that top-of-frame is oriented to the N
+	start web-cam interface; see detailed instructions in section below
+	ensure camera is focused on trap-top; take a still image via web-cam interface and zoom in on it. Bias grain of traptop should be clearly visible. Adjust lens with white collars if needed
+	double-check that timestamps are reflecting the correct time; if not, could reset pi time (see troubleshooting, below) and/or flash digital watch in frame (synchronized to laptops) 
+
+6) Metone anemometer -- data acquisition
+	this can happen at any point, once one of the laptops is free
+	plug anemometer into its battery (separate leads for speed, direction, and heater)
+	connect teensy to the laptop 
+	start logging via laptop; see data acquisition details below
+	
+
+7) First fly release 
+	take one of the two fly chambers out of the car, and set up at release site
+	two people drive both cars ~1.2 km downwind to a mutually-agreed-upon site; leave the third person to release flies
+	release-person should have:
+		- a full liter of water
+		- hat/sunscreen on
+		- notepad and pen
+		- cell phone
+		- walkie-talkie
+		- satellite messenger
+	remove plastic lid (note time)
+	decide on release timing based on the wind:
+		has anemometer been recording for at least ten minutes?
+		has average windspeed been acceptably low (below 5mph/2.2mps is great, below 10mph/4.5mps is acceptable) for a few minutes?
+		release flies by entirely removing mesh top and lying down to get out of their way, thumping the bucket to promote departure
+		after 5 minutes of the chamber being open, re-close the chamber and seal up with the stench-barrier
+	remove any hitchhiking flies from clothing, and walk to cars 
+	when walking past ring of upcams, keep as much distance from them as possible
+
+8) Eat lunch, make sure second batch of flies is staying shaded
+
+9) First round of collection from traps
+	one hour after the release, drive around 1-km ring to collect flies. Leave cameras undisturbed
+	before opening trap, spray mesh with EtOH to knock all flies into bait
+	pour bait and flies through mesh funnel (supported by plastic funnel) into 1-gallon labeled waste containers
+	make sure all flies are rinsed off banana island and inside of trap to join their brethren in the mesh funnel
+	quickly close up mesh funnel and put in labeled jar (A1, B1, C1, etc)
+	re-bait trap (500 mL)
+	re-set trap by affixing trap-top again
+	
+-----Setting up for second fly release -----
+10) take one car with flies back to release site
+11) repeat release as before
+12) wait a half hour, then start shutting down (see data acquisition instructions) and packing upcams
+13) wait one hour before collecting from 1-km traps, this time shutting down trapcams (see data acquisition instructions) and repacking everything
+14) return to release site to pack anemometer and temp/humidity logger, as well as the spent release buckets
+15) drive back to SW corner of lakebed [35.033871, -116.752033]
+16) drive back home!
+
+
+DATA ACQUISITION STUFF
+- acquiring data from the orange mini-vanes (current plan is to have five pis at 1-km acquiring wind-direction data in addition to timelapse data of the trap-top):
+	1. know that ONLY SOME of the raspberry pis have the em3242_wind_vane software installed; these currently are marked on their acrylic housing. As of 25 Jan 2019, 5 pis are configured to record 	from mini-vane
+	2. before or after sshing into pi, plug mini-vane's teensy into one of the USB ports of the pi
+	3. as of April 2019, all 5 raspberry pis (marked as such) will automatically launch the wind_vane_server upon booting; just navigate a browser window to [rpi.ip.address]:5000
+	4. if for some reason you need manual booting of the wind_vane_server:
+		$ cd ~/src/em3242_wind_vane/software/javascript/wind_vane_server
+		$ node server.js
+			> should print info such as:
+				* log directory: /home/pi/wind_vane_data
+				* listening on port: 5000
+		at this point navigate a browser window to same address as described above [rpi.ip.address]:5000
+
+- acquiring timelapse data from the traps
+	1. I configured both field laptops' ethernet ports as DHCP servers, so either one can be used for this task
+	2. While the trap/tripod are being set up, power the pi via usb (from portable battery) and connect it to laptop via ethernet cable
+	3. All raspberry pis should be assigned the SAME ip address from either laptop: 192.168.93.10
+	4. $ ssh pi@192.168.93.10
+	5. All raspberry pis should have been given ssh keys from both laptops, so a password isn't required; but if I missed any of them, all pis' passwords are: raspberry
+	6. direct internet browswer to 192.168.93.10 ---------> ---> (AND BE SURE TO REFRESH PAGE) <---- <------------
+	7. from here, web-cam GUI is accesssible:
+		a. ensure timelapse parameters are correct (e.g. 2 second interval)
+		b. take a still-photo of the trap top and zoom in on it to determine if camera is well-focused (should easily see bias grain of trap fabric)
+		c. timelapse start
+	8. taking care not to dislodge the pi's power cable, unplug ethernet connection --
+	[------------------------------Release flies, record data---------------------------------------------]
+	9. Powering off:
+		a. all trapcams have a power-down button installed. you can depress it for 3 seconds, and it will enter power-off sequence
+		b. for any spare trapcams that do not have a power-down button, connect camera to laptop
+			EITHER
+			$ ssh pi@192.168.93.10
+			$ sudo shutdown now
+			
+			OR
+			navigate web browser to 192.168.93.10
+			click "stop video"
+			at bottom of page, click system > power off
+		c. unplug from battery
+
+- acquiring data from the MetOne anemometer (generally placed at the release site)
+	1. both field laptops are equipped with Will's MetOne logging software, so either one can be used for this task
+	2. both MetOne sensors (speed and direction) are powered by the same portable battery, with split cable. Wind direction's heater should also be powered by this cable; I've found this current draw 		prevents automatic shutoff of the batter
+	3. both MetOne sensor cables terminate in a BNC connection; connect these to the teensy
+	4. connect teensy to laptop via USB; this supplies power for teensy as well as serving data transmission
+	5. logging
+		to launch logging via Python GUI:
+		cd ~/src/m1_wind_sensor/software/python/m1_wind_sensor/m1_wind_sensor
+		workon anemometer
+		m1_logger -w [width of display window in seconds]
+
+		ALTERNATELY
+		to launch logging via web server:
+		cd ~/src/m1_wind_sensor/software/javascript/m1_wind_sensor_server
+		node server.js
+		http://localhost:5000/
+
+		IN EITHER CASE
+		data saved to ~/m1_wind_data in time-stamped .txt file
+
+- acquiring data from the upward-facing cameras (Francesca sideslip project)
+	1. I configured both field laptops' ethernet ports as DHCP servers, so either one can be used for this task
+	2. Power the pi via usb (from portable battery) and connect it to laptop via ethernet cable
+ 	3. All raspberry pis should be assigned the SAME ip address from either laptop: 192.168.93.10
+	4. [not really necessary for upcams] $ ssh pi@192.168.93.10
+	5. All raspberry pis should have been given ssh keys from both laptops, so a password isn't required; but if I missed any of them, all pis' passwords are: raspberry
+	6. direct internet browswer to 192.168.93.10 ---------> ---> (AND BE SURE TO REFRESH PAGE) <---- <------------
+	7. from here, web-cam GUI is accesssible:
+		a. video parameters will be whatever you had last specified in this GUI -- but you might wanna double-check
+		c. video start
+	8. taking care not to dislodge the pi's power cable, unplug ethernet connection --
+	[------------------------------Release flies, record data---------------------------------------------]
+	9. Powering off:
+		a. almost all upcams do NOT have a power-down button installed. But one of them does; you can depress it for 3 seconds, and it will enter power-off sequence
+		b. for other upcams, connect camera to laptop
+			EITHER
+			$ ssh pi@192.168.93.10
+			$ sudo shutdown now
+			
+			OR
+			navigate web browser to 192.168.93.10
+			click "stop video"
+			at bottom of page, click system > power off
+		c. unplug from battery
+
+- acquiring data from the temperature/humidity logger:
+	1. plug it into its battery w USB cable
+	2. it should start recording automatically and should also get a GPS fix
+	3. to power off, unplug cable when blue LED is NOT on
+
+
+COMMANDS THAT MAY PROVE USEFUL FOR TROUBLESHOOTING
+-------issues with IP assignment:-------
+	ifconfig
+	dhcp-lease-list --lease /var/lib/dhcp/dhcpd.leases
+	sudo ifdown --force enp0s31f6
+	sudo ifup -a
+	sudo service isc-dhcp-server restart
+
+-------issues with acquiring data:-------
+
+something like grep tty0 (look up command) to check if usb inputs (from anemometers) are recognized
+
+/etc/rc.local is where raspimjpeg commands were populated by the web-cam interface
+
+crontab -e will bring up any of the commands that we're telling the pis to execute upon rebooting
+
+------- resetting pi clocks: -------
+set time on pi from getac laptop with:
+sudo date --set="$(ssh michael@192.168.93.2 'date')"
+
+set time on pi from coyotelake laptop with:
+sudo date --set="$(ssh kate@192.168.93.1 'date')"
+

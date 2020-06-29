@@ -1,0 +1,43 @@
+Array-of-funnels trap-top manufacture
+***********************
+Materials:
+Flat-woven 100% polyester fabric, white: 
+	fabric manufacturing tends to be not very stable, but the product I used is "Casa" 100% polyester chiffon, white, Joann Fabric no. 400075440594. Manufactured by Bumirang in Seoul, South Korea
+	key features of fabric: 100% polyester, not dyed, fiber strands are ________ microns diameter and the inter-fiber spacing is ______ microns
+
+file to cut: /home/kate/Documents/coyote_lake_methods/baiting_trapping/square_trap_laser_cutter_file.svg
+
+
+Procedure:
+
+1) Heat iron (standard clothes iron) to "polyester" setting and iron fabric atop a soft substrate to remove all wrinkles
+2) Position two layers of polyester on laser-cutting bed such that the grain is parallel/perpendicular to the laser cutter bed (the important thing is that the funnel "seams"
+are at 45 deg to the grain so that the funnels have a symmetrical open shape when turned seam-side-in)
+3) Again, in lasercutting bed, iron the two pieces of mesh.
+4) Weigh down fabric at edges with aluminum endplates/washers/nuts
+5) Focus lasercutter head to the cutting bed (because fabric thickness is negligible)
+6) Using colormapping, cut the seams with the following protocol:
+    - blue zig-zag seams (to be fused) should be sent as the first cutting job: speed 5% power 2%, freq 5kHz, vector (not raster), air assist off
+    - once all blue seams have been fused, evenly soak the fabric with deionized water (using a misting water bottle).
+    - then, send all green seams (to be cut, but not to be fused) as the second cutting job: speed 55% power 8%, freq 5kHz, vector (not raster), air assist off
+ 
+
+7) Carefully remove cut pieces. Some straight seams occasionally do fuse together; these need to be cut with sharp sewing shears to prevent snags in the weave
+8) As if using an envelope opener, carefully "unzip" the seams that had been specified with green colormapping; these should not have fused together, but they will be slightly stuck
+8) Stitch funnel-strips together, with a straight stitch, with melted seams facing inward. Take care to not sew over the funnels; pins are useful here. Seam allowances are specified by the notches in the lasercut fabric pieces.
+9) Once done sewing, trim seam allowances to < 1cm
+10) Invert funnels and be sure funnel openings are consistent
+
+Setting up the trap:
+*******************
+These mesh trap-tops were optimized for 28 x 28 x 17 cm traps (Square Colorwave Smart Store Tote Translucent; Container Store SKU#: 10062800)
+With lasercutter, cut out interior of polypropylene lid that comes with the square bucket, leaving just a square "lip" that can be snapped onto the bucket.
+	cutting file: ~/Documents/coyote_lake_methods/trap/square_trap_lid.svg
+	cutting parameters: speed 10%, power 18%
+Add bait to trap (500 mL prepared ferment, plus one opened single-serve container of Gerber banana food)
+Secure mesh array-of-funnels to the trap itself by draping it over the trap opening, sandwiching it under the square "lip," and tensioning the lip with the bucket's snaps.
+Adjust tension of mesh manually so that funnels are tensed open, but seams aren't stressed. Secure edges with some lab tape.
+
+
+
+

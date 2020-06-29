@@ -1,0 +1,74 @@
+Pupal sheet manufacture
+***********************
+Materials:
+3M CG6000 overhead transparencies (____ mm thick, polyester with an unknown proprietary coating)
+cutting file:    /home/kate/Documents/coyote_lake_methods/husbandry/pupal_sheet_laser_cutter_file.svg
+laser cutter
+
+Procedure
+to cut out sheets, use 80% speed and 9% power
+after cutting, rinse sheets in warm soapy water to remove any haze (smells noxious, possibly toxic to fly larvae)
+cutting out pupal sheets is more time consuming than the labor required for their reuse
+
+Pupal sheet reuse
+*****************
+Be sure to remove pupal sheets from release chambers before driving to the release site.
+Immediately after removing sheets from chamber, toss into tupperware of hot soapy water. Soak.
+Agitate and soak, then sheets can be wiped clean.
+Dip in ethanol
+String up a "clothesline" and hang pupal sheets to dry. If sheets stick together they won't dry properly
+
+
+Quantifying pupae on sheets
+***************************
+Using Getac field laptop (password rotcam) and transillumination setup, image a random subset of
+pupal sheets before transferring to release chamber. These images can then be run through my
+quantal analysis scripts to estimate the average number of pupae per sheet, which can then be used
+to estimate the total number of pupae transferred to the release chamber.
+
+At the moment the rate of failure-to-eclose is not being monitored.
+Also the number of flies that fail to leave the release chamber is not being monitored.
+
+Transillumination and imaging setup
+Camera: Basler acA640, powered with PoE (using one of those PHIHONG PoE boxes)
+Lens:
+Lightbox: Advanced Illumination backlight system, I believe the BL0808 (confirm this)
+Image acquisition: Aravis
+
+
+    frame rate 10 hz
+    exposure 500 microseconds
+    gain 100 dB
+    pixel format: mono8
+    region position: 19,0 pixels
+    binning 1,1 pixels
+    region size 640, 480 pixels
+
+Procedure:
+log in to Getac laptop (password rotcam)
+power camera with PoE (power over ethernet) and connect to rotcam via the ethernet port (I've configured it to DHCP)
+launch Aravis Viewer 
+	via gui navigate Applications>Multimedia>Aravis
+
+	OR
+
+	$ cd src/aravis-0.3.7/viewer/
+	$ arv-viewer
+
+In list of available channels select the BasleracA640 etcetera
+Set pixel format, region position, binning, region size to parameters listed above:
+
+$cd src/aravis-0.3.7/src
+$arv-tool-0.4 control Width=640 Height=480  #this command may need to be run twice, not sure why; check filename of a saved image afterward to ensure it reads 640-480 and make sure image has actual content
+
+Power lightbox - be mindful of lightbox overheating; I've rigged up this system maybe haphazardly
+The "play" gui button should prompt a live image view from the Basler camera
+Set frame rate, exposure, and gain to those parameters listed above
+At this point a live image of the lightbox should be shown; position pupal sheet in field of view and acquire image
+Save all images in /home/michael/Pictures/Aravis/pupal_sheet_imaging/[today's date]_group_[which release chamber]
+
+Transfer images from field laptop to my desktop (Ptarmigan) for analysis:
+    Connect via ethernet cable the DHCP-configured ports of getac and my desktop
+    from getac command line:
+        $ cd /home/michael/Pictures/Aravis/pupal_sheet_imaging
+        $ scp -r ./[subfolder with today's images] kate@[ptarmigan IP address, should be 192.168.5.1]:/home/kate/Documents/fly_rearing_records/[subfolder name]

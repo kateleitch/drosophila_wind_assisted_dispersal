@@ -1,0 +1,7 @@
+2019_04_19 was the first field release to include temp and humidity sensing -- will provided me with a really convenient logger
+
+Sensor is SHT31-D Humidity sensor
+
+Logging time expressed in GMT
+
+

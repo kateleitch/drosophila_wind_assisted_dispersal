@@ -1,0 +1,83 @@
+General overview:
+
+I developed this rearing protocol to satisfy the following aims: wanted tens of
+thousands of flies of similar age (2 - 6 days old) in a single chamber for simultaneous release; wanted
+to provide a protein-poor "meridic" diet for the adults with the assumption that this could
+encourage dispersal; wanted to come away with a fairly accurate estimate of the number of flies
+reared; wanted the obvious things like low mortality, low degree of wing damage.
+
+Recipes
+*******
+
+Fly food for larvae: made by "fly kitchen;" same recipe as used by the rest of the lab.
+Yeast sprinkled in after flipping out studs
+
+Fly food for adults:
+To make 2L (enough to cover bottom of one release chamber):
+1.78 L deionized water
+13.6 g agar (BD Bacto Agar, 214010)
+32.0 g sucrose
+1.25 g CaCl2
+15.3 mL 95% EtOH
+
+Make food in a pyrex flask on a hot/stir plate. Microwave deionized water in 500 mL
+batches before adding to flask on hot plate (seriously expedites the process).
+With continuous stirring, combine all ingredients, barring EtOH. Stir and heat until
+agar fully dissolves (should occur at 85-90 C). Turn off heat and allow to cool to below 65C;
+add EtOH. Pour 2L of this warm solution into the bottom of each release chamber, taking care to
+minimize bubbles. Pouring should be done before the solution cools below 45C
+(approx. polymerization temperature).
+
+Rearing protocol
+****************
+Several weeks prior to intended release date, ensure that enough studs
+will be available ~ 12 days prior to intended release date. Want to have 10 females (and ~10 males)
+available to stud each bottle. For typical releases, I have studded 120 bottles for each release chamber.
+(To keep things manageable, I typically use the same studs for any additional release chambers, causing DOBs between
+release chambers to be staggered by one day.) So for a typical release, I need to have 1,200 females
+and ~1,200 males (less crucial) available for studding.
+
+Anaesthetize studs in batches of ~1000-2000 on CO2 plate
+Gently mix them around to make sure males and females are evenly distributed on plate
+Count out several piles of 20 flies; with these as a visual aid, divide the remaining flies on the
+plate into piles of approximately 20 flies.
+Brush each pile of 20 into a standard bottle of fly food.
+Allow studs to mate and lay eggs for 24 - 32 hours
+Flip out studs; they can be flipped into a second batch of bottles (e.g. if I intend to populate a second release chamber)
+While flipping out studs, sprinkle in yeast and carefully insert each "pupal sheet."
+Take several seconds to pull tabs on pupal sheets, adjusting tension to maximize contact of sheet with the wall of the bottle.
+
+Keep bottles at a temperature to control development timing -- incubators ranging from <--------  ########
+As larvae begin crawling up the walls and pupating, monitor them daily; it is ideal to transfer the pupal sheets to the
+release chambers *as soon as* >95% of flies have pupated. (The earlier the better because it is extremely
+inconvenient to perform the transfer once even a tiny fraction of the flies have eclosed. In other words, better to transfer
+in the midst of a few stray larvae than in the midst of a few stray adults.)
+
+Prepare release chamber for pupal transfer:
+    1) Pour, and allow to cool, 2L of sucrose agar in bottom of chamber.
+    2) Ensure that the chamber will securely hold adult flies; check arm port for gaps or holes, and check
+    lid fabric to ensure there are no gaps in the velcro and that none of the stitching has weakened the fabric weave.
+    3) String two lines of fine tubing (optimal diameter and friction with pupal sheets) across each release chamber.
+    4) Remove pupal sheets from bottles, unfurling each with some care to prevent dislodging pupae.
+    4.5) Using transillumination setup, image a random subset of pupal sheets for quantification.
+    5) Hang each pupal sheet on the fine tubing. Keeping the sheets in the same orientation with respect to one another facilitates
+    their later removal.
+    6) Double-check that arm-port and lid fabric are very secure with no gaps. Finally, secure the plastic lid
+    (which simply protects the lid fabric from stray elbows). Store release chamber in incubator or room temperature.
+    7) Monitor each release chamber on a daily basis. Look for escaping flies, excessive mortality, condensation dripping down walls,
+    signs of sucrose agar drying out, etc. Excessive condensation can be mitigated by adding some dry paper towel, as well as removing
+    the plastic lid (increases air exchange). Manipulations can be done through the arm port.
+
+On the day of the release:
+    1) Through arm port, remove all pupal sheets. (Everyone who was going to eclose should have done so by now.)
+    This might reduce mortality and wing damage during the jostling in the car.
+    2) In place of pupal sheets, drape long sheets of dry brown paper towel over the tubing, to provide as much
+    soft surface area for landing as possible, and also to provide some humidity buffering.
+    3) Cover (but do not seal) each chamber with IR-reflective tarp when loading into the car. Direct sun falling on the
+    release chamber causes flies to aggregate with horrifying density; this seems liable to damage wings.
+    4) In transit, make all efforts to keep temperature in the car reasonably cool; this is a tradeoff between stressing the
+    flies and stressing the radiator. In my experience, oscillating between air conditioning on (when car is moving > 20 mph,
+    this is less bad for the car) and air conditioning off has always yielded healthy flies and reasonable results. I have never
+    monitored the temperature in the release chambers; it is probably worth devoting a raspberry pi and thermocouple to this.
+
+Releasing flies:

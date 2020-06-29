@@ -1,0 +1,1 @@
+[{"common to all traps": {"parameters to test": {"mahalanobis squared threshold": [10, 11], "minimum contour size": [16]}, "frame selection parameters": {"number of pre-release samples": 2, "post-release time range": [10, 40], "number of post-release samples": 10, "display __ consecutive frames per sample": 3, "pre-release time range": [-20, 0]}}}]

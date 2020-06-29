@@ -1,0 +1,16 @@
+trap_A: 3 non-dipterans (2 wasps, 1 beetle) 
+trap_B: 2 non-dipterans (1 hemipteran, 1 homopteran?)
+trap_C: 2 dipterans (1 Drosophila suzukii female, 1 other no id)
+trap_D: 4 dipterans (2 D. suzukii female, 2 other no id)
+trap_E: 3 dipterans (2 D. suzukii female, 1 other no id)
+trap_F: 3 non-dipterans (3 wasps), 2 dipterans (1 D. suzukii female, 1 other little dark guy)
+trap_G: 1 non-dipteran (1 wasp), 2 dipterans (1 D. suzukii female, 1 D. suzukii male)
+trap_H: 2 non-dipterans (2 wasps), 1 dipteran (1 D. suzukii female)
+trap_I: 1 non-dipteran (a small beetle with outrageously cute antennae)
+trap_J: 2 non-dipterans (2 beetles)
+
+all stored in ethanol microcentrifuge tubes, sorted by trap and sorted by:
+
+- D. melanogaster (presumed to be our flies)
+- other dipteran
+- any other insect

@@ -1,0 +1,7 @@
+ferment started at 11:30 am on Sunday, 09 June 2019
+made 6 liters (enough for 10 traps, plus 20% extra)
+had a starting specific gravity of 1.094
+used Kroger apple juice (100% juice, two ingredients: apple juice from concentrate and ascorbic acid) 
+on the day of the fly release, had a specific gravity of 1.070
+
+(1.094 - 1.070)*131.25 = 3.15 % ABV

@@ -41,25 +41,25 @@ We have provided a directory structure that will facilitate your analysis of any
 
 You'll want the resultant directory structure to look like:
 		
-		field_data_and_analysis_scripts		
-			2017_10_26
-				trapcam_timelapse
-					trap_A					<--------------------------------  
-						mask.jpg							|
-						tl_0007_0001_20161130_125959.jpg				|
-						.								|
-						.								|
-						.       [many more image files]					|
-						.						these are the folders/files 
-						.							provided on request
-						tl_0007_3644_20161130_160239.jpg				|
-					trap_B									|
-						mask.jpg							|
-						tl_0009_0001_20161130_103056.jpg				|
-						.								|
-						.								|
-						.       [et cetera]		<--------------------------------				
-	
+field_data_and_analysis_scripts		
+	2017_10_26
+		trapcam_timelapse
+			trap_A					<--------------------------------  
+				mask.jpg							|
+				tl_0007_0001_20161130_125959.jpg				|
+				.								|
+				.								|
+				.       [many more image files]					|
+				.						these are the folders/files 
+				.							provided on request
+				tl_0007_3644_20161130_160239.jpg				|
+			trap_B									|
+				mask.jpg							|
+				tl_0009_0001_20161130_103056.jpg				|
+				.								|
+				.								|
+				.       [et cetera]		<--------------------------------				
+
 
 
 ## Running the 

@@ -1,0 +1,13 @@
+(these notes are derived from the temperature log file. Rather than writing a script to display temperature, for now I'm just reading through the log and noting what seems relevant)
+
+For 2019_07_06 release, GMT (logging time) is advanced by 7 hours relative to the local time.
+
+Release was at 08:11:00 -- > 15:11:00 GMT
+
+For first 10 min after release, temps ranged from 28.2 to 29.0 C
+mins 10 - 20 after release, temps ranged from 29.0 to 29.9
+mins 20 - 30, temps ranged from 29.9 to 31.7
+mins 30 - 40, from 31.7 to 30.6 (not sure why it went down; perhaps I moved it to a more-shaded spot?)
+mins 40 - 50, from 30.6 to 30.3
+temps got up to 35 C (95 degrees F) by 10:15
+

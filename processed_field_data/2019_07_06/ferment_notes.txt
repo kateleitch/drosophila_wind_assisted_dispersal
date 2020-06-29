@@ -1,0 +1,7 @@
+ferment started at ~3 pm on Thursday, 04 July 
+made 6 liters (enough for 10 traps, plus 20% extra)
+assumed starting specific gravity of 1.094
+used whole foods and Kroger apple juice (100% juice, two ingredients: apple juice from concentrate and ascorbic acid) 
+on the day of the fly release, had a specific gravity of 1.074, then a few hours later we recorded 1.070. Splitting the diff yields 1.072
+
+(1.094 - 1.072)*131.25 = 2.88 % ABV

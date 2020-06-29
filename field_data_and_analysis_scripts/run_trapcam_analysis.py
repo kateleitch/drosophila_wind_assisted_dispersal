@@ -1,9 +1,10 @@
 from __future__ import print_function
 import sys
 #import trapcam_analysis_old as t
-import trapcam_analysis_in_progress_2019_july as t
+import trapcam_analysis as t
 
-dir = sys.argv[1]
+dir = raw_input("Enter the experiment directory you'd like to analyze (e.g. '2017_10_26'): ")
+# dir = sys.argv[1]
 
 print ('')
 while True:

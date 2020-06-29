@@ -61,12 +61,12 @@ You'll want the resultant directory structure to look like:
 
 ## Running analyses of raw camera-trap data 
 At this point, using "/field_data_and_analysis_scripts" as your working directory, you'll want to run the script "/run_trapcam_analysis.py," which will prompt your specification of:
-1) the experiments you'd like to analyze (e.g. 2017_10_26), 
-2) the traps you'd like to analyze (e.g. trap_G),
+* the experiments you'd like to analyze (e.g. 2017_10_26), 
+* the traps you'd like to analyze (e.g. trap_G),
 and
-3) whether you'd like to tinker around with analysis parameters, or if you'd like to use default analysis parameters to perform the final analysis.
-* 3a) if you choose the former, the analysis will come up with an "in-trap/on-trap threshold" for each trap analyzed, on the basis of any dips found in a multimodal histogram of detected-contour contrast metrics. This threshold will be saved in the parameter file, (e.g. "/2017_10_26/gaussian_analysis_parameters.json"). 
-* 3b) if you choose the latter, the analysis will use the saved "in-trap/on-trap threshold" to generate time-series estimations of the number of flies in, and on, the trap surface; these results will be saved in e.g. "/2017_10_26/all_traps_final_analysis_output.json"
+* whether you'd like to tinker around with analysis parameters, or if you'd like to use default analysis parameters to perform the final analysis.
+  * if you choose the former, the analysis will come up with an "in-trap/on-trap threshold" for each trap analyzed, on the basis of any dips found in a  multimodal histogram of detected-contour contrast metrics. This threshold will be saved in the parameter file, (e.g. "/2017_10_26/gaussian_analysis_parameters.json"). 
+  * if you choose the latter, the analysis will use the saved "in-trap/on-trap threshold" to generate time-series estimations of the number of flies in, and on, the trap surface; these results will be saved in e.g. "/2017_10_26/all_traps_final_analysis_output.json"
 
 
 

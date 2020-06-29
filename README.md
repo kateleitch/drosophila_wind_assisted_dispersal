@@ -1,20 +1,32 @@
 # Wind-assisted dispersal in <i>Drosophila</i>
 
-Data repository (field data and behavioral simulations) for all figures in:
-The long distance flight behavior of Drosophila suggests a general model for wind-assisted dispersal in insects
-Katherine J Leitch, Francesca V Ponce, Floris van Breugel, Michael H. Dickinson
+This repository contains the software, processed data, and all behavioral simulations associated with the paper "The long distance flight behavior of <i>Drosophila</i> suggests a general model for wind-assisted dispersal in insects."
+For a pre-print, see: https://www.biorxiv.org/content/10.1101/2020.06.10.145169v1
 
+The original data (2.5 TB) will be available upon reasonable request upon formal publication.
+
+Processed data is available through this repository, along with instructions for use, under the folders ______________
+
+This readme assumes working knowledge of Ubuntu and python. This code is not actively maintained. It was last updated on 29 June 2020, using up-to-date versions of the required software below.
+
+Code and data are licensed under a [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0").
+
+## What you need to run our analysis
 1) DATA FORMATS
 This repository contains a mixture of different data formats, all offering reasonable human-readability, and all able to be read into a python environment using only open-source tools. 
 	- Almost all 
 
+## The data
 
+If you would like to re-run our analyses starting from our raw camera-trap image stream, please contact the authors (leitchka@gmail.com). Camera data from each experiment comprise ___ to ____ GB of data; we will make available, upon reasonable request, these data from individual experiments or from the entire dataset.
+
+Once you have the data, you will need to follow the following instructions for making the data accessible to the analysis (below).
 - json (JavaScript Object Notation, a "lightweight data-interchange format," 
 1) PRIMARY SOFTWARE DEPENDENCIES
 - Python 2.7
 - OpenCV ( )
 
 
-2) IF READERS WANT THE ORIGINAL CAMERA-TRAP DATA, I'LL BE HAPPY TO PROVIDE IT, 3) NEED TO PROVIDE A DIGESTIBLE WAY FOR A READER TO UNDERSTAND WHICH PYTHON SCRIPTS WILL ALLOW THEM TO VISUALIZE/RE-ANALYZE WHICH THINGS, 4) WITHOUT PERTURBING DIRECTORY STRUCTURE, WOULD LIKE TO MAKE CLEAR WHICH EXPERIMENT DATES GAVE RISE TO WHICH FIGURES
+
 
 

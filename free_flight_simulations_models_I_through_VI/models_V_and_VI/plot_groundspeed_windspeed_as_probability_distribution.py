@@ -139,10 +139,8 @@ def plot_model_kde_with_conf_intervals_and_field_data(dict_of_model_data, model_
 
 dict_of_model_data = {'./groundspeed_reg/mu_2.0_minimum_path_length_2_FIELD_WINDS/gtraj_wtraj.json':[]}
 
-with open('../coyote_lake_simple_plumeless_simulations/first_fly_arrival_groundspeeds_vs_windspeeds.json') as f:
+with open('./first_fly_arrival_groundspeeds_vs_windspeeds.json') as f:
     field_data_dictionary = json.load(f)
-# with open('./first_fly_arrival_groundspeeds_vs_windspeeds_TWO_OUTLIERS_OMITTED.json') as f:
-#     field_data_dictionary_outliers_omitted = json.load(f)
 
 groundspeeds = field_data_dictionary['groundspeeds']
 windspeeds = field_data_dictionary['windspeeds']

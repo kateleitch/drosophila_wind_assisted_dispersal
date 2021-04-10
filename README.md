@@ -23,7 +23,7 @@ Data in this repository are stored in a variety of data formats, all offering re
 * some field data, such as anemometer recordings, are saved as .csv files
 
 ## Behavioral simulations
-The folder "./free_flight_simulations_models_I_through_VI" houses:
+The folder "./free_flight_simulations_models_I_through_IV" houses:
 * scripts used to simulate the groundspeed-windspeed relationships expected from fixed-azimuth models (I through IV):
   * simulations with free parameters set to values estimated from the literature (as in Fig. 6), in "/simulations"
   * sensitivity analyses to individually optimize each model (as in Supp. Figs 3 and 5) on the basis of their fit to field data, in "/simulations_sensitivity_analysis"

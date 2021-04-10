@@ -11,13 +11,6 @@ This readme assumes working knowledge of Ubuntu and python. This code is not act
 
 Code and data are licensed under a [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0").
 
-## What you will need to run our analyses
-* Ubuntu (we used Ubuntu 16)
-* Python (2.7)
-* OpenCV (3.3.1)
-* apt-get repositories:
-* Manual downloads:
-
 Data in this repository are stored in a variety of data formats, all offering reasonable human-readability, and all readable with open-source tools.
 * most processed data and experimental metadata are saved as .json files
 * some field data, such as anemometer recordings, are saved as .csv files
@@ -29,10 +22,10 @@ The folder "./agent_based_simulations_models_I_through_IV" houses:
   * sensitivity analyses to individually optimize each model (as in Supp. Figs 2 and 3) on the basis of their fit to field data, in "/simulations_sensitivity_analysis"
   * finally, comparing these individually-optimized models on the basis of relative fit to field data (as in Supp. Fig 4), in "/bayes_comparing_optimized_simulations"
 * scripts used to simulate groundspeed-windspeed relationships from model I, above, with a suite of stochastic variations introduced ("/model_I_with_stochastic_heading_changes")
-* an outdated folder ("/models_V_and_VI_NOT_PRESENTED_IN_PNAS_PAPER") containing preliminary attempts at stochastic simulations (not removed from repository due to KJL's low competence with git) that we removed from the paper during the PNAS review process.
+* an outdated folder ("/models_V_and_VI_NOT_PRESENTED_IN_PNAS_PAPER") containing preliminary attempts at stochastic simulations that we removed from the paper during the PNAS review process (not removed from repository due to low competence with git).
 
 ## Advection-diffusion behavioral simulations
-All scripts used to run advection-diffusion simulations were written by Will Dickson, and are packaged in a separate GitHub repository at: https://github.com/willdickson/name_of_repo
+All scripts used to run advection-diffusion simulations were written by Will Dickson, and are packaged in a separate GitHub repository at: https://github.com/willdickson
 
 The folder "./advection_diffusion_simulations" houses:
 * final datasets produced from the above advection-diffusion simulations, in "/advection_diffusion_datasets"
@@ -42,6 +35,11 @@ The folder "./advection_diffusion_simulations" houses:
 If you would like to re-run our analyses starting from our raw camera-trap image stream, please contact the authors (leitchka@gmail.com). Camera data from each experiment comprise 30 to 120 GB of data; we will make available, upon reasonable request, these data from individual experiments or from the entire dataset (~0.5 TB).
 
 Once you have the camera-trap images, you will need to follow the following instructions for making these data accessible to the analysis (below).
+
+## Key software needed to run our analyses
+* Ubuntu (we used Ubuntu 16)
+* Python (2.7)
+* OpenCV (3.3.1)
 
 ## Making raw camera-trap data accessible to our analysis pipeline
 We have provided a directory structure that will facilitate your analysis of any raw camera-trap data you've requested and received. This directory is called "./field_data_and_analysis_scripts." Subfolders with experimental date names (e.g. "2017_10_26") have been prepared for your manual deposition of the raw camera data we provide. This will require two steps:

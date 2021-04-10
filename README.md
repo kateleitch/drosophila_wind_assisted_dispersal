@@ -1,15 +1,13 @@
-# Wind-assisted dispersal in <i>Drosophila</i>
-
-.
+# <i>Drosophila</i> wind-assisted dispersal
 
 This repository contains the software, processed data, and all behavioral simulations associated with the paper "The long distance flight behavior of <i>Drosophila</i> suggests a general model for wind-assisted dispersal in insects."
 For a pre-print, see: https://www.biorxiv.org/content/10.1101/2020.06.10.145169v1
 
-The original data (~ 0.5 TB) will be available upon reasonable request upon formal publication.
+The original data (~ 0.5 TB) will be made available upon reasonable request upon formal publication.
 
 Processed data is available through this repository, along with instructions for use, under the folder "./processed_field_data"
 
-This readme assumes working knowledge of Ubuntu and python. This code is not actively maintained. It was last updated on 21 February 2021.
+This readme assumes working knowledge of Ubuntu and python. This code is not actively maintained. It was last updated on 09 April 2021.
 
 Code and data are licensed under a [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0").
 

@@ -1,6 +1,6 @@
 # <i>Drosophila</i> wind-assisted dispersal
 
-This repository contains the software, processed data, and all behavioral simulations associated with the paper "The long distance flight behavior of <i>Drosophila</i> suggests a general model for wind-assisted dispersal in insects."
+This repository contains the software, processed data, and all behavioral simulations associated with the paper "The long distance flight behavior of <i>Drosophila</i> supports an agent-based model for wind-assisted dispersal in insects."
 For a pre-print, see: https://www.biorxiv.org/content/10.1101/2020.06.10.145169v1
 
 The original data (~ 0.5 TB) will be made available upon reasonable request upon formal publication.
@@ -22,12 +22,21 @@ Data in this repository are stored in a variety of data formats, all offering re
 * most processed data and experimental metadata are saved as .json files
 * some field data, such as anemometer recordings, are saved as .csv files
 
-## Behavioral simulations
-The folder "./free_flight_simulations_models_I_through_IV" houses:
+## Agent-based behavioral simulations
+The folder "./agent_based_simulations_models_I_through_IV" houses:
 * scripts used to simulate the groundspeed-windspeed relationships expected from fixed-azimuth models (I through IV):
   * simulations with free parameters set to values estimated from the literature (as in Fig. 6), in "/simulations"
-  * sensitivity analyses to individually optimize each model (as in Supp. Figs 3 and 5) on the basis of their fit to field data, in "/simulations_sensitivity_analysis"
+  * sensitivity analyses to individually optimize each model (as in Supp. Figs 2 and 3) on the basis of their fit to field data, in "/simulations_sensitivity_analysis"
   * finally, comparing these individually-optimized models on the basis of relative fit to field data (as in Supp. Fig 4), in "/bayes_comparing_optimized_simulations"
+* scripts used to simulate groundspeed-windspeed relationships from model I, above, with a suite of stochastic variations introduced ("/model_I_with_stochastic_heading_changes")
+* an outdated folder ("/models_V_and_VI_NOT_PRESENTED_IN_PNAS_PAPER") containing preliminary attempts at stochastic simulations (not removed from repository due to KJL's low competence with git) that we removed from the paper during the PNAS review process.
+
+## Advection-diffusion behavioral simulations
+All scripts used to run advection-diffusion simulations were written by Will Dickson, and are packaged in a separate GitHub repository at: https://github.com/willdickson/name_of_repo
+
+The folder "./advection_diffusion_simulations" houses:
+* final datasets produced from the above advection-diffusion simulations, in "/advection_diffusion_datasets"
+* scripts used to assess the above datasets with respect to their fit to field data (as in Fig. 7), in "/advection_diffusion_analysis_scripts"
 
 ## The raw camera-trap data
 If you would like to re-run our analyses starting from our raw camera-trap image stream, please contact the authors (leitchka@gmail.com). Camera data from each experiment comprise 30 to 120 GB of data; we will make available, upon reasonable request, these data from individual experiments or from the entire dataset (~0.5 TB).

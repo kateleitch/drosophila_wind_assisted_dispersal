@@ -29,7 +29,7 @@ All scripts used to run advection-diffusion simulations were written by Will Dic
 
 The folder "./advection_diffusion_simulations" houses:
 * final datasets produced from the above advection-diffusion simulations, in "/advection_diffusion_datasets"
-* scripts used to assess the above datasets with respect to their fit to field data (as in Fig. 7), in "/advection_diffusion_analysis_scripts"
+* scripts and intermediate figure sequences used to assess the above datasets with respect to their fit to field data (as in Fig. 7), in "/advection_diffusion_analyses"
 
 ## The raw camera-trap data
 If you would like to re-run our analyses starting from our raw camera-trap image stream, please contact the authors (leitchka@gmail.com). Camera data from each experiment comprise 30 to 120 GB of data; we will make available, upon reasonable request, these data from individual experiments or from the entire dataset (~0.5 TB).

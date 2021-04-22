@@ -7,7 +7,7 @@ The original data (~ 0.5 TB) will be made available upon reasonable request upon
 
 Processed data is available through this repository, along with instructions for use, under the folder "./processed_field_data"
 
-This readme assumes working knowledge of Ubuntu and python. This code is not actively maintained. It was last updated on 09 April 2021.
+This readme assumes working knowledge of Ubuntu and python. This code is not actively maintained. It was last updated on 21 April 2021.
 
 Code and data are licensed under a [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0").
 
@@ -25,7 +25,7 @@ The folder "./agent_based_simulations_models_I_through_IV" houses:
 * an outdated folder ("/models_V_and_VI_NOT_PRESENTED_IN_PNAS_PAPER") containing preliminary attempts at stochastic simulations that we removed from the paper during the PNAS review process (not removed from repository due to low competence with git).
 
 ## Advection-diffusion behavioral simulations
-All scripts used to run advection-diffusion simulations were written by Will Dickson, and are packaged in a separate GitHub repository at: https://github.com/willdickson
+All scripts used to run advection-diffusion simulations were written by Will Dickson, and are packaged in a separate GitHub repository at: https://github.com/willdickson/ad_coyote_lake
 
 The folder "./advection_diffusion_simulations" houses:
 * final datasets produced from the above advection-diffusion simulations, in "/advection_diffusion_datasets"
